@@ -1,0 +1,113 @@
+condition_grp,nct_id,v1,v2,v3,v4,v5,v6
+Ank spond,NCT01087762,pain,anxiety,CV,antacids,asthma_COPD,osteoporosis
+Ank spond,NCT01209702,pain,anxiety,CV,antacids,asthma_COPD,osteoporosis
+Arthritis,NCT02183064,CV,anxiety,antacids,asthma_COPD,thyroid,osteoporosis
+Asthma,NCT01159912,CV,pain,antacids,arthritis,inflammatory,anxiety
+Asthma,NCT01181895,CV,pain,antacids,arthritis,inflammatory,anxiety
+Asthma,NCT01436110,CV,pain,antacids,arthritis,inflammatory,anxiety
+Asthma,NCT01691521,CV,pain,antacids,arthritis,inflammatory,anxiety
+BPH,NCT00384930,CV,erectile,arthritis,antacids,diabetes,pain
+BPH,NCT00827242,CV,erectile,arthritis,antacids,diabetes,pain
+BPH,NCT00848081,CV,erectile,arthritis,antacids,diabetes,pain
+BPH,NCT00861757,CV,erectile,arthritis,antacids,diabetes,pain
+BPH,NCT00970632,CV,erectile,arthritis,antacids,diabetes,pain
+CIU,NCT01264939,antacids,asthma_COPD,CV,anxiety,pain,arthritis
+CIU,NCT01287117,antacids,asthma_COPD,CV,anxiety,pain,arthritis
+CIU,NCT01292473,antacids,asthma_COPD,CV,anxiety,pain,arthritis
+"CV, other",NCT00116831,diabetes,anxiety,pain,arthritis,thyroid,asthma_COPD
+"CV, other",NCT00123903,diabetes,anxiety,pain,arthritis,thyroid,asthma_COPD
+"CV, other",NCT00262600,diabetes,anxiety,pain,arthritis,thyroid,asthma_COPD
+Dementia,NCT00348140,CV,anxiety,arthritis,pain,thromboembolic,antacids
+Dementia,NCT00348309,CV,anxiety,arthritis,pain,thromboembolic,antacids
+Dementia,NCT00423085,CV,anxiety,arthritis,pain,thromboembolic,antacids
+Dementia,NCT00428090,CV,anxiety,arthritis,pain,thromboembolic,antacids
+Diabetes,NCT00153088,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT00734474,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT00856284,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT00968708,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01064687,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01075282,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01126580,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01164501,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01191268,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01370005,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01624259,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01719003,CV,pain,anxiety,arthritis,glaucoma,antacids
+Diabetes,NCT01769378,CV,pain,anxiety,arthritis,glaucoma,antacids
+ED,NCT00855582,CV,arthritis,diabetes,antacids,pain,anxiety
+Epilepsy,NCT00464269,pain,anxiety,CV,arthritis,thromboembolic,antacids
+Epilepsy,NCT00490035,pain,anxiety,CV,arthritis,thromboembolic,antacids
+Hypertension,NCT00034840,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT00153023,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT00168857,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT00273052,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT00274599,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT00274612,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT00926289,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT02172586,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT02175355,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT02177396,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT02177461,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+Hypertension,NCT02242318,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic
+IBD,NCT00552058,pain,antacids,anxiety,arthritis,CV,osteoporosis
+IBD,NCT00783718,pain,antacids,anxiety,arthritis,CV,osteoporosis
+IBD,NCT01224171,pain,antacids,anxiety,arthritis,CV,osteoporosis
+Osteoporosis,NCT00046254,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00049829,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00051558,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00100620,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00145327,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00439244,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00439647,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Osteoporosis,NCT00670501,CV,arthritis,pain,antacids,anxiety,thromboembolic
+Parkinson Disease,NCT00381472,CV,anxiety,arthritis,pain,antacids,diabetes
+Parkinson Disease,NCT00402233,CV,anxiety,arthritis,pain,antacids,diabetes
+Parkinson Disease,NCT00466167,CV,anxiety,arthritis,pain,antacids,diabetes
+Parkinson Disease,NCT00479401,CV,anxiety,arthritis,pain,antacids,diabetes
+Psoriasis,NCT01087788,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+Psoriasis,NCT01358578,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+Psoriasis,NCT01365455,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+Psoriasis,NCT01474512,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+Psoriasis,NCT01597245,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+Psoriasis,NCT01646177,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+"Pulmonary Disease, Chronic Obstructive",NCT01316900,CV,pain,anxiety,arthritis,antacids,diabetes
+"Pulmonary Disease, Chronic Obstructive",NCT01316913,CV,pain,anxiety,arthritis,antacids,diabetes
+"Pulmonary Disease, Chronic Obstructive",NCT01957163,CV,pain,anxiety,arthritis,antacids,diabetes
+"Pulmonary Disease, Chronic Obstructive",NCT02119286,CV,pain,anxiety,arthritis,antacids,diabetes
+"Pulmonary Disease, Chronic Obstructive",NCT02177344,CV,pain,anxiety,arthritis,antacids,diabetes
+"Pulmonary Disease, Chronic Obstructive",NCT02236611,CV,pain,anxiety,arthritis,antacids,diabetes
+"Pulmonary Disease, Chronic Obstructive, Ph",NCT01772134,CV,pain,anxiety,arthritis,diabetes,antacids
+Pulmonary Fibrosis,NCT01335464,CV,pain,antacids,arthritis,anxiety,asthma_COPD
+Pulmonary Fibrosis,NCT01335477,CV,pain,antacids,arthritis,anxiety,asthma_COPD
+Pulmonary hypertension,NCT00125918,CV,pain,anxiety,antacids,inflammatory,arthritis
+Restless Legs Syndrome,NCT00133198,pain,arthritis,CV,anxiety,antacids,thyroid
+Restless Legs Syndrome,NCT00197080,pain,arthritis,CV,anxiety,antacids,thyroid
+Restless Legs Syndrome,NCT00314860,pain,arthritis,CV,anxiety,antacids,thyroid
+Restless Legs Syndrome,NCT00329602,pain,arthritis,CV,anxiety,antacids,thyroid
+Restless Legs Syndrome,NCT00363857,pain,arthritis,CV,anxiety,antacids,thyroid
+Restless Legs Syndrome,NCT00472199,pain,arthritis,CV,anxiety,antacids,thyroid
+rheumatoid arthritis,NCT00106535,pain,CV,anxiety,antacids,osteoporosis,thyroid
+rheumatoid arthritis,NCT00144508,pain,CV,anxiety,antacids,osteoporosis,thyroid
+rheumatoid arthritis,NCT01007435,pain,CV,anxiety,antacids,osteoporosis,thyroid
+rheumatoid arthritis,NCT01119859,pain,CV,anxiety,antacids,osteoporosis,thyroid
+rheumatoid arthritis,NCT01232569,pain,CV,anxiety,antacids,osteoporosis,thyroid
+"Rhinitis, allergic",NCT00115622,pain,arthritis,CV,anxiety,thyroid,antacids
+"Rhinitis, allergic",NCT00118729,pain,arthritis,CV,anxiety,thyroid,antacids
+"Rhinitis, allergic",NCT00289198,pain,arthritis,CV,anxiety,thyroid,antacids
+"Rhinitis, allergic",NCT00609674,pain,arthritis,CV,anxiety,thyroid,antacids
+"Rhinitis, allergic",NCT01916226,pain,arthritis,CV,anxiety,thyroid,antacids
+Systemic Lupus Erythematosus,NCT00410384,arthritis,pain,CV,anxiety,antacids,osteoporosis
+Systemic Lupus Erythematosus,NCT00424476,arthritis,pain,CV,anxiety,antacids,osteoporosis
+Thromboembolism,NCT00139815,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00152971,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00168818,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00291330,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00329238,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00558259,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00657150,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00680186,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+Thromboembolism,NCT00694382,arthritis,CV,anxiety,pain,asthma_COPD,thyroid
+GORD,NCT00321737,anxiety,asthma_COPD,thyroid,diabetes,osteoporosis,migraine
+GORD,NCT00321984,anxiety,asthma_COPD,thyroid,diabetes,osteoporosis,migraine
+Gout,NCT00174915,anxiety,asthma_COPD,diabetes,thyroid,erectile,glaucoma
+Gout,NCT00430248,anxiety,asthma_COPD,diabetes,thyroid,erectile,glaucoma

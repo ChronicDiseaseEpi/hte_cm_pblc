@@ -1,0 +1,45 @@
+Index condition,Treatment comparison,Age treatment interaction,Sex treatment interaction
+Ankylosing Spondylitis,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB),-0.02 (-0.09 to 0.05),-0.06 (-0.19 to 0.06)
+Ankylosing Spondylitis,Interleukin inhibitors (L04AC)-IL6,-0.01 (-0.10 to 0.08), 0.03 (-0.13 to 0.20)
+Asthma,Selective beta-2-adrenoreceptor agonists (R03AC),-1.16 (-2.05 to -0.28)*,-1.15 (-3.18 to 0.87)
+Asthma,Glucocorticoids (R03BA), 0.12 (-0.37 to 0.60),-0.40 (-1.41 to 0.64)
+Asthma,Other systemic drugs for obstructive airway diseases (R03DX), 0.39 (-0.36 to 1.13),-0.84 (-2.25 to 0.58)
+BPH,Drugs used in erectile dysfunction (G04BE),-0.04 (-0.51 to 0.42)," "
+CIU,Other systemic drugs for obstructive airway diseases (R03DX), 0.09 (-0.15 to 0.33), 0.58 (0.07 to 1.07)*
+Dementia,Thiazolidinediones (A10BG), 0.30 (-0.01 to 0.61), 0.19 (-0.15 to 0.54)
+Dementia,Anticholinesterases (N06DA), 0.09 (-0.15 to 0.32),-0.02 (-0.29 to 0.26)
+Diabetes,INSULINS AND ANALOGUES (A10A) vs Glucagon-like peptide-1 (GLP-1) analogues (A10BJ), 0.02 (-0.06 to 0.09), 0.04 (-0.05 to 0.13)
+Diabetes,Biguanides (A10BA) vs Glucagon-like peptide-1 (GLP-1) analogues (A10BJ), 0.05 (-0.04 to 0.14),-0.00 (-0.12 to 0.12)
+Diabetes,Sulfonylureas (A10BB) vs Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH), 0.01 (-0.04 to 0.06), 0.03 (-0.04 to 0.10)
+Diabetes,Sulfonylureas (A10BB) vs Sodium-glucose co-transporter 2 (SGLT2) inhibitors (A10BK), 0.07 (0.00 to 0.13)*, 0.04 (-0.04 to 0.12)
+Diabetes,Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH) vs Glucagon-like peptide-1 (GLP-1) analogues (A10BJ), 0.08 (-0.04 to 0.21),-0.02 (-0.17 to 0.14)
+Diabetes,Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH) vs Sodium-glucose co-transporter 2 (SGLT2) inhibitors (A10BK), 0.09 (0.01 to 0.17)*, 0.05 (-0.05 to 0.15)
+Diabetes,Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH), 0.02 (-0.03 to 0.06),-0.01 (-0.07 to 0.06)
+Diabetes,Glucagon-like peptide-1 (GLP-1) analogues (A10BJ), 0.02 (-0.13 to 0.17), 0.29 (0.12 to 0.49)*
+Diabetes,Sodium-glucose co-transporter 2 (SGLT2) inhibitors (A10BK), 0.07 (0.04 to 0.11)*,-0.01 (-0.05 to 0.03)
+ED,Drugs used in erectile dysfunction (G04BE), 0.33 (-0.34 to 0.99)," "
+GORD,Proton pump inhibitors (A02BC),-0.01 (-0.05 to 0.04),-0.10 (-0.18 to -0.01)*
+Gout,Preparations inhibiting uric acid production (M04AA), 0.01 (-0.40 to 0.43),-0.51 (-1.78 to 0.77)
+Hypertension,"ACE inhibitors, plain (C09AA) vs Angiotensin II antagonists, plain (C09CA)", 0.28 (-0.12 to 0.70),-0.02 (-0.60 to 0.59)
+Hypertension,"Thiazides, plain (C03AA)",-0.01 (-0.72 to 0.70), 1.04 (-0.07 to 2.15)
+Hypertension,"Angiotensin II antagonists, plain (C09CA)",-0.26 (-1.21 to 0.70),-0.02 (-1.36 to 1.33)
+IBD,Selective immunosuppressants (L04AA), 0.11 (-0.04 to 0.27), 0.09 (-0.16 to 0.34)
+IBD,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB), 0.06 (-0.09 to 0.22),-0.04 (-0.40 to 0.26)
+IBD,Interleukin inhibitors (L04AC)-IL12-IL23, 0.11 (-0.08 to 0.30), 0.05 (-0.27 to 0.36)
+Inflammatory Arthropathy,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB) vs Interleukin inhibitors (L04AC)-IL6, 0.39 (-1.04 to 1.82), 2.41 (-0.66 to 5.48)
+Inflammatory Arthropathy,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB), 0.17 (-0.44 to 0.79),-0.87 (-1.82 to 0.11)
+Inflammatory Arthropathy,Interleukin inhibitors (L04AC)-IL12-IL23, 1.72 (-1.92 to 5.36), 0.31 (-5.40 to 6.03)
+Inflammatory Arthropathy,Interleukin inhibitors (L04AC)-IL6, 0.28 (-0.33 to 0.88), 0.00 (-1.12 to 1.12)
+Osteoporosis,Bisphosphonates (M05BA) vs Parathyroid hormones and analogues (H05AA), 0.06 (-0.05 to 0.17),-0.00 (-0.26 to 0.25)
+Osteoporosis,Parathyroid hormones and analogues (H05AA),-0.13 (-0.27 to 0.02)," "
+Osteoporosis,Bisphosphonates (M05BA), 0.01 (-0.05 to 0.07), 0.30 (0.14 to 0.45)*
+Parkinson Disease,Dopamine agonists (N04BC), 0.19 (-0.20 to 0.59),-0.28 (-0.77 to 0.19)
+Psoriasis,Interleukin inhibitors (L04AC)-IL12-IL23, 0.04 (-0.11 to 0.19),-0.43 (-0.68 to -0.18)*
+Psoriasis,Interleukin inhibitors (L04AC)-IL17A, 0.07 (-0.03 to 0.16),-0.30 (-0.47 to -0.12)*
+"Pulmonary Disease, Chronic Obstructive",Selective beta-2-adrenoreceptor agonists (R03AC),-0.34 (-0.91 to 0.22), 0.00 (-0.68 to 0.68)
+"Pulmonary Disease, Chronic Obstructive",Glucocorticoids (R03BA), 0.07 (-0.19 to 0.32),-0.15 (-0.43 to 0.15)
+"Pulmonary Disease, Chronic Obstructive",Selective beta-2-adrenoreceptor agonists (R03AC) vs Anticholinergics (R03BB), 0.09 (-0.26 to 0.42), 0.12 (-0.27 to 0.53)
+Pulmonary Fibrosis,Other protein kinase inhibitors (L01EX), 0.05 (-0.48 to 0.56),-0.22 (-0.83 to 0.42)
+Restless Legs Syndrome,Dopamine agonists (N04BC),-0.05 (-0.45 to 0.36),-0.09 (-0.78 to 0.58)
+"Rhinitis, allergic",fluticasone (R01AD08),-0.86 (-2.55 to 0.84), 1.40 (-2.32 to 5.13)
+Systemic Lupus Erythematosus,Selective immunosuppressants (L04AA), 0.03 (-0.12 to 0.19),-0.24 (-0.74 to 0.26)

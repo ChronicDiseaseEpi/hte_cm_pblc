@@ -1,0 +1,11 @@
+nct_id,control,treat,condition,treat1,control1,atc_treat,detail_treat,cmpr
+NCT01087788,PLACEBO - CZP 400mg Q4W,CZP 400mg Q4W,Psoriatic Arthritis,Certolizumab Pegol,placebo,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,pu_l04ab
+NCT00265096,Placebo,golimumab,Psoriatic arthritis,golimumab,placebo,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,pu_l04ab
+NCT00267969,Placebo,Ustekinumab,Psoriasis,ustekinumab,placebo,L04AC Interleukin inhibitors,il-12 and il-23,pu_l04ac_il12_il23
+NCT00307437,Placebo,Ustekinumab,Psoriasis,ustekinumab,placebo,L04AC Interleukin inhibitors,il-12 and il-23,pu_l04ac_il12_il23
+NCT01009086,Placebo,Ustekinumab,Psoriatic arthritis,ustekinumab,placebo,L04AC Interleukin inhibitors,il-12 and il-23,pu_l04ac_il12_il23
+NCT01077362,Placebo,Ustekinumab,Psoriatic arthritis,ustekinumab,placebo,L04AC Interleukin inhibitors,il-12 and il-23,pu_l04ac_il12_il23
+NCT01358578,Placebo,AIN457 300 mg,Psoriasis,secukinumab,placebo,L04AC Interleukin inhibitors,il-17a,pu_l04ac_il17a
+NCT01365455,Placebo,AIN457 300 mg,Psoriasis,secukinumab,placebo,L04AC Interleukin inhibitors,il-17a,pu_l04ac_il17a
+NCT01646177,PLACEBO-Q2W,IXEKIZUMAB-80mg-Q2W,Psoriasis,ixekizumab,placebo,L04AC Interleukin inhibitors,il-17a,pu_l04ac_il17a
+NCT01474512,PLACEBO-Q2W_PLACEBO-Q4W | PLACEBO-Q2W_IXEKIZUMAB-80mg-Q4W-NON-RESPONDER | PLACEBO-Q2W,IXEKIZUMAB-80mg-Q2W_IXEKIZUMAB-80mg-Q12W | IXEKIZUMAB-80mg-Q2W_IXEKIZUMAB-80mg-Q4W | IXEKIZUMAB-80mg-Q2W_PLACEBO-Q4W | IXEKIZUMAB-80mg-Q2W_IXEKIZUMAB-80mg-Q4W-NON-RESPONDER | IXEKIZUMAB-80mg-Q2W,Psoriasis,ixekizumab,placebo,L04AC Interleukin inhibitors,il-17a,pu_l04ac_il17a

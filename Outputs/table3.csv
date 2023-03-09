@@ -1,0 +1,15 @@
+Condition,Outcome,Intervention,Comparator,N_trials,Comorbidity treatment intervention
+Migraine,No. of headaches,Topiramate (N03AX11),Placebo,5,1.03 (0.85-1.22)
+Osteoporosis,Fracture of vertebrae,Teriparatide (H05AA02),Placebo,1,0.87 (0.58-1.30)
+,,Zoledronic acid (M05BA08),Placebo,2,0.96 (0.79-1.17)
+Primary prevention,Bleeding,Dabigatran (B01AE07),LMWH (B01AB),2,1.06 (1.00-1.12)
+,,Dabigatran (B01AE07),Warfarin (B01AA03),1,1.00 (0.96-1.04)
+,,Semuloparin (B01AB),Placebo,1,NA
+,DVT/DVT or PE,Dabigatran (B01AE07),LMWH (B01AB),3,1.07 (0.89-1.26)
+,,Semuloparin (B01AB),Placebo,1,NA
+Secondary prevention,Bleeding,Dabigatran (B01AE07),Placebo,1,0.82 (0.64-1.05)
+,,Dabigatran (B01AE07),Warfarin (B01AA03),1,1.06 (0.94-1.19)
+,DVT/DVT or PE,Dabigatran (B01AE07),Placebo,1,0.96 (0.60-1.54)
+,,Dabigatran (B01AE07),Warfarin (B01AA03),1,1.05 (0.64-1.70)
+Treatment,Bleeding,Dabigatran (B01AE07),Warfarin (B01AA03),2,1.00 (0.90-1.10)
+,DVT/DVT or PE,Dabigatran (B01AE07),Warfarin (B01AA03),2,0.91 (0.75-1.10)

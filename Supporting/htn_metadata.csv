@@ -1,0 +1,13 @@
+nct_id,control,treat,control1,treat1,control2,treat2,cmpr
+NCT00034840,Val/Val/Missed dose,Telm/Telm/Missed dose,valsartan,telmisartan,C09CA,C09CA,C09CA_C09CA
+NCT02177396,"Valsartan, Tablet, 80 mg","Telmisartan, Tablet, 80 mg",valsartan,telmisartan,C09CA,C09CA,C09CA_C09CA
+NCT02242318,Val/Val/MD,Telm/Telm/MD,valsartan,telmisartan,C09CA,C09CA,C09CA_C09CA
+NCT02172586,Losartan,Telmisartan,losartan,telmisartan,C09CA,C09CA,C09CA_C09CA
+NCT02177461,Enalapril,Telmisartan,enalpril,telmisartan,C09AA,C09CA,C09AA_C09CA
+NCT00274599,Ramipril 2.5/5/10 mg,Telmisartan 40/80/80 mg,ramipril,telmisartan,C09AA,C09CA,C09AA_C09CA
+NCT00274612,Ram 2.5/5/10,Telm 40/80/80,ramipril,telmisartan,C09AA,C09CA,C09AA_C09CA
+NCT02175355,Placebo,Telmi 80mg,placebo,telmisartan,pu,C09CA,pu_C09CA
+NCT00696241,Placebo,TAK-491 80 mg,placebo,azilsartan,pu,C09CA,pu_C09CA
+NCT00696436,Placebo,TAK-491 40 mg/80 mg,placebo,azilsartan,pu,C09CA,pu_C09CA
+NCT00273052,Toprol XL,Coreg CR,metoprolol,carvedilol,C07AB,C07AG ,C07AB_C07AG 
+NCT00926289,Telmisartan,Telmisartan+HCTZ,usual,hydrochlorothiazide,pu,C03AA,pu_C03AA

@@ -1,0 +1,7 @@
+nct_id,control,treat,condition,control1,treat1,control2,treat2,cmpr,notes
+NCT00046254,Placebo,Zoledronate,Osteoporosis; Hip Fracture,placebo,zolendronate,pu,M05BA Bisphosphonates,pu_m05ba,
+NCT00049829,Placebo,Zoledronic Acid,Osteoporosis,placebo,zolendronate,pu,M05BA Bisphosphonates,pu_m05ba,
+NCT00051558,ALN10,PTH20,Osteoporosis,Alendronate,Teriparatide,M05BA Bisphosphonates,H05AA Parathyroid hormones and analogues,m05ba_h05aa,
+NCT00100620,Risedronate 5mg + placebo iv infusion,Zoledronic acid 5mg + oral placebo,Osteoporosis,Risedronate,Zolendronate,M05BA Bisphosphonates,M05BA Bisphosphonates,m05ba_m05ba,drop as same class
+NCT00439244,Treatment Group C - Zoledronic acid 5mg i.v.,Treatment Group A - Zoledronic acid 5mg i.v. plus Teriparatide 20 µg,Osteoporosis,usual care,teriparatide,pu,H05AA Parathyroid hormones and analogues,pu_h05aa,
+NCT00670501,Placebo,PTH40,Osteoporosis,placebo,teriparatide,pu,H05AA Parathyroid hormones and analogues,pu_h05aa,

@@ -1,0 +1,38 @@
+cmpr,cmpr2,cmpr3
+pu_l04ac_il6,L04AC-IL6,Interleukin inhibitors (L04AC)-IL6
+l04ab_l04ac_il6,L04AB vs L04AC-IL6,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB) vs Interleukin inhibitors (L04AC)-IL6
+pu_l04ab,L04AB,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB)
+A10BH_A10BJ,A10BH vs A10BJ,Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH) vs Glucagon-like peptide-1 (GLP-1) analogues (A10BJ)
+pu_A10BJ,A10BJ,Glucagon-like peptide-1 (GLP-1) analogues (A10BJ)
+A10A_A10BJ,A10A vs A10BJ,INSULINS AND ANALOGUES (A10A) vs Glucagon-like peptide-1 (GLP-1) analogues (A10BJ)
+A10BA_A10BJ,A10BA vs A10BJ,Biguanides (A10BA) vs Glucagon-like peptide-1 (GLP-1) analogues (A10BJ)
+pu_A10BK,A10BK,Sodium-glucose co-transporter 2 (SGLT2) inhibitors (A10BK)
+pu_m05ba,M05BA,Bisphosphonates (M05BA)
+m05ba_h05aa,M05BA vs H05AA,Bisphosphonates (M05BA) vs Parathyroid hormones and analogues (H05AA)
+pu_N04BC,N04BC,Dopamine agonists (N04BC)
+C09AA_C09CA,C09AA vs C09CA,"ACE inhibitors, plain (C09AA) vs Angiotensin II antagonists, plain (C09CA)"
+pu_R01AD08,R01AD08,fluticasone (R01AD08)
+pu_A10BG,A10BG,Thiazolidinediones (A10BG)
+pu_l04aa,L04AA,Selective immunosuppressants (L04AA)
+pu_L04AB,L04AB,Tumor necrosis factor alpha (TNF-) inhibitors (L04AB)
+pu_L04AA,L04AA,Selective immunosuppressants (L04AA)
+A10BB_A10BH,A10BB vs A10BH,Sulfonylureas (A10BB) vs Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH)
+pu_C03AA,C03AA,"Thiazides, plain (C03AA)"
+pu_A10BH,A10BH,Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH)
+pu_R03BA,R03BA,Glucocorticoids (R03BA)
+pu_R03AC,R03AC,Selective beta-2-adrenoreceptor agonists (R03AC)
+pu_r03dx,R03DX,Other systemic drugs for obstructive airway diseases (R03DX)
+pu_L01EX,L01EX,Other protein kinase inhibitors (L01EX)
+pu_l04ac_il17a,L04AC-IL17A,Interleukin inhibitors (L04AC)-IL17A
+pu_R03DX,R03DX,Other systemic drugs for obstructive airway diseases (R03DX)
+pu_C09CA,C09CA,"Angiotensin II antagonists, plain (C09CA)"
+pu_a02bc,A02BC,Proton pump inhibitors (A02BC)
+pu_m04aa,M04AA,Preparations inhibiting uric acid production (M04AA)
+R03AC_R03BB,R03AC vs R03BB,Selective beta-2-adrenoreceptor agonists (R03AC) vs Anticholinergics (R03BB)
+pu_l04ac_il12-il23,L04AC-IL12-IL23,Interleukin inhibitors (L04AC)-IL12-IL23
+pu_N06DA,N06DA,Anticholinesterases (N06DA)
+pu_l04ac_il12_il23,L04AC-IL12-IL23,Interleukin inhibitors (L04AC)-IL12-IL23
+A10BB_A10BK,A10BB vs A10BK,Sulfonylureas (A10BB) vs Sodium-glucose co-transporter 2 (SGLT2) inhibitors (A10BK)
+A10BH_A10BK,A10BH vs A10BK,Dipeptidyl peptidase 4 (DPP-4) inhibitors (A10BH) vs Sodium-glucose co-transporter 2 (SGLT2) inhibitors (A10BK)
+pu_g04be,G04BE,Drugs used in erectile dysfunction (G04BE)
+pu_h05aa,H05AA,Parathyroid hormones and analogues (H05AA)

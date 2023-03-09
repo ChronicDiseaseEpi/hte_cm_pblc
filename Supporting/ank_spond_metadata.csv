@@ -1,0 +1,4 @@
+nct_id,control,treat,condition,control1,treat1,cntr_trt,atc_treat,detail_treat,atc_control,cmpr
+NCT01087762,PLACEBO - CZP 400mg Q4W,CZP 400mg Q4W,Axial Spondyloarthritis,placebo,Certolizumab Pegol,placebo_czp,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00265083,Placebo,Golimumab,ankylosing spondylitis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT01209702,PLACEBO,TCZ 8 MG/KG,ankylosing spondylitis,placebo,tocilizumab,placebo_tocilizumab,L04AC Interleukin inhibitors,il-6,,pu_l04ac_il6

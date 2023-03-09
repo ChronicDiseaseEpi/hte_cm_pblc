@@ -1,0 +1,12 @@
+nct_id,control,treat,condition,control1,treat1,control2,treat2,cmpr,cmpr_lbld,notes
+NCT00783718,Placebo,Vedolizumab every 4 weeks,Ulcerative Colitis; Crohn's Disease,Placebo,vedolizumab,pu,L04AA Selective immunosuppressants,pu_L04AA,pu_L04AA Selective immunosuppressants,
+NCT01224171,Placebo,Vedolizumab every 4 weeks,Ulcerative Colitis; Crohn's Disease,Placebo,vedolizumab,pu,L04AA Selective immunosuppressants,pu_L04AA,pu_L04AA Selective immunosuppressants,
+NCT00552058,Placebo,CZP 400mg,Crohn's Disease,Placebo,certolizumab pegol,pu,L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,pu_L04AB,pu_L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,
+NCT00094458,AZA and Placebo,Infliximab and AZA,Crohn's disease,Azathioprine and Placebo,Azathiopringe and infliximab,pu,L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,pu_L04AB,pu_L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,by subtraction
+NCT00207662,Placebo,Infliximab,Crohn's disease,Placebo,Infliximab,pu,L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,pu_L04AB,pu_L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,
+NCT00207766,Placebo,Infliximab,Crohn's disease,Placebo,Infliximab,pu,L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,pu_L04AB,pu_L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,
+NCT00487539,Placebo,Golimumab,Ulcerative colitis,Placebo,Golimumab,pu,L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,pu_L04AB,pu_L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,
+NCT00488631,Placebo,Golimumab,Ulcerative colitis,Placebo,Golimumab,pu,L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,pu_L04AB,pu_L04AB Tumor necrosis factor alpha (TNF-alpha) inhibitors,
+NCT01369329,Placebo,ustekinumab,Crohn's disease,Placebo,ustekinumab,pu,L04AC Interleukin inhibitors,pu_l04ac_il12-il23,pu_L04AC Interleukin inhibitors,
+NCT01369355,Placebo,ustekinumab,Crohn's disease,Placebo,ustekinumab,pu,L04AC Interleukin inhibitors,pu_l04ac_il12-il23,pu_L04AC Interleukin inhibitors,
+NCT01369342,Placebo,ustekinumab,Crohn's disease,Placebo,ustekinumab,pu,L04AC Interleukin inhibitors,pu_l04ac_il12-il23,pu_L04AC Interleukin inhibitors,

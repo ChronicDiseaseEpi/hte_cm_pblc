@@ -1,0 +1,4 @@
+Index conditions,Outcome,Treatment comparisons,Trials,nct_ids
+Migraine,No. headaches,topiramate (N03AX11) [5],5,NCT00210912;NCT00212810;NCT00231595;NCT00236509;NCT00236561
+Osteoporosis,Vertebral fracture,Parathyroid hormones and analogues (H05AA) [1] & Bisphosphonates (M05BA) [2],3,NCT00046254;NCT00049829;NCT00670501
+Thromboembolic,Bleeding [1]; DVT or PE [1]; DVT or PE and Bleeding [7],"Vitamin K antagonists (B01AA) vs Direct thrombin inhibitors (B01AE) [4], Heparin group (B01AB) [1], B01AB vs B01AE [3] & B01AE [1]",9,NCT00152971;NCT00168818;NCT00262600;NCT00291330;NCT00329238;NCT00558259;NCT00657150;NCT00680186;NCT00694382

@@ -1,0 +1,135 @@
+condition_grp,nct_id,sponsor_id_sas,sponsor_id,sponsor,medicine,condition,outcome1,outcome2,outcome3,outcome4,outcome5,outcome6,outcome7,outcome8,outcome9,outcome10,outcome11,outcome12,outcome13,outcome14,outcome15,outcome16
+bph,NCT00384930,LILLY-H6D-MC-LVHG,LILLY-H6D-MC-LVHG,Lilly.,Tadalafil,Benign Prostatic Hyperplasia,IPSS Total Score,Uroflowmetry Qmax,BPH,CV,erectile,arthritis,antacids,diabetes,pain,NA,NA,NA,NA,NA,NA,NA
+bph,NCT00827242,LILLY-H6D-MC-LVHJ,LILLY-H6D-MC-LVHJ,Lilly.,Tadalafil,Benign Prostatic Hyperplasia,IPSS Total Score,Uroflowmetry Qmax,BPH,CV,erectile,arthritis,antacids,diabetes,pain,NA,NA,NA,NA,NA,NA,NA
+bph,NCT00848081,LILLY-H6D-MC-LVHS,LILLY-H6D-MC-LVHS,Lilly.,Tadalafil,Benign Prostatic Hyperplasia,IPSS Total Score,Uroflowmetry Qmax,BPH,CV,erectile,arthritis,antacids,diabetes,pain,NA,NA,NA,NA,NA,NA,NA
+bph,NCT00861757,LILLY-H6D-MC-LVHB,LILLY-H6D-MC-LVHB,Lilly.,Tadalafil,Benign Prostatic Hyperplasia,IPSS Total Score,Uroflowmetry Qmax,BPH,CV,erectile,arthritis,antacids,diabetes,pain,NA,NA,NA,NA,NA,NA,NA
+bph,NCT00970632,LILLY-H6D-MC-LVID,LILLY-H6D-MC-LVID,Lilly.,Tadalafil,Benign Prostatic Hyperplasia,IPSS Total Score,Uroflowmetry Qmax,BPH,CV,erectile,arthritis,antacids,diabetes,pain,NA,NA,NA,NA,NA,NA,NA
+bph,NCT00855582,LILLY-H6D-MC-LVHR,LILLY-H6D-MC-LVHR,Lilly.,Tadalafil,"Erectile Dysfunction, Benign Prostatic Hyperplasia",IPSS Total Score,Uroflowmetry Qmax,ED,CV,arthritis,diabetes,antacids,pain,anxiety,NA,NA,NA,NA,NA,NA,NA
+ciu,NCT01264939,RCH-Q4883G,NOVARTIS-Q4883g,Novartis,omalizumab,Chronic Idiopathic Urticaria (CIU),DLQI Score,CIU,antacids,asthma_COPD,CV,anxiety,pain,arthritis,NA,NA,NA,NA,NA,NA,NA,NA
+ciu,NCT01287117,RCH-Q4881G,NOVARTIS-Q4881g,Novartis.,omalizumab,Chronic Idiopathic Urticaria (CIU),DLQI Score,CIU,antacids,asthma_COPD,CV,anxiety,pain,arthritis,NA,NA,NA,NA,NA,NA,NA,NA
+ciu,NCT01292473,RCH-Q4882G,NOVARTIS-Q4882g,Novartis.,omalizumab,Chronic Idiopathic Urticaria (CIU),DLQI Score,CIU,antacids,asthma_COPD,CV,anxiety,pain,arthritis,NA,NA,NA,NA,NA,NA,NA,NA
+diab,NCT00153023,BI-502.396,BI-502.396,BI,telmisartan,"Diabetes Mellitus, Type 2, nephropathy",NA,NA,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+diab,NCT00153088,502.41300000000001,BI-502.413,Boehringer Ingelheim,telmisartan,Diabetic Nephropathies,NA,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01164501,1245.3599999999999,BI-1245.36,Boehringer Ingelheim,empagliflozin,"Diabetes Mellitus, Type 2; Renal Insufficiency",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01370005,1245.48,BI-1245.48,Boehringer Ingelheim,empagliflozin,"Diabetes Mellitus, Type 2; Hypertension",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01719003,1276.0999999999999,BI- 1276.1,Boehringer Ingelheim.,empagliflozin,"Diabetes Mellitus, Type 2;   Hyperglycemia",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT00968812,NA,DIA3009,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01032629,NA,DIA3008,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,weight,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01081834,NA,DIA3005,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01106625,NA,DIA3002,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01106651,NA,DIA3010,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01106677,NA,DIA3006,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01106690,NA,DIA3012,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01137812,NA,DIA3015,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01381900,NA,DIA3014,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,weight,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01809327,NA,DIA3011,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,weight,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01989754,NA,DIA4003,Janssen,Canagliflozin,"Diabetes Mellitus, Type 2",hba1c,weight,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT00734474,LILLY-H9X-MC-GBCF,LILLY-H9X-MC-GBCF,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01064687,LILLY-H9X-MC-GBDA,LILLY-H9X-MC-GBDA,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01075282,LILLY-H9X-MC-GBDB,LILLY-H9X-MC-GBDB,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01126580,LILLY-H9X-MC-GBDC,LILLY-H9X-MC-GBDC,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01191268,LILLY-H9X-MC-GBDD,LILLY-H9X-MC-GBDD,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01624259,LILLY-H9X-MC-GBDE,LILLY-H9X-MC-GBDE,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT01769378,LILLY-H9X-MC-GBDG,LILLY-H9X-MC-GBDG,Lilly,Dulaglutide,Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT00856284,TKA-SYR322_305,TAKEDA-SYR-322_305,Takeda,alogliptin,Type 2 Diabetes Mellitus,hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+diab,NCT00968708,TKA-SYR322_402,TAKEDA-SYR-322_402,Takeda,alogliptin,"Diabetes Mellitus, Type 2",hba1c,NA,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids,NA,NA,NA,NA,NA,NA,NA
+gout,NCT00174915,C02-009,NA,Takeda,NA,Gout n = 1000,urate,Gout,anxiety,asthma_COPD,diabetes,thyroid,erectile,glaucoma,NA,NA,NA,NA,NA,NA,NA,NA
+gout,NCT00430248,F-GT06-153,NA,Takeda,NA,Gout n = 2250,urate,Gout,anxiety,asthma_COPD,diabetes,thyroid,erectile,glaucoma,NA,NA,NA,NA,NA,NA,NA,NA
+gord,NCT00321984,T-GD05-137,NA,Takeda,NA,GORD n = 900,prcntheatburn_free_days,GORD,anxiety,asthma_COPD,thyroid,diabetes,osteoporosis,migraine,NA,NA,NA,NA,NA,NA,NA,NA
+gord,NCT00321737,T-EE05-135,NA,Takeda,NA,GORD n = 450,prcntheatburn_free_days,GORD,anxiety,asthma_COPD,thyroid,diabetes,osteoporosis,migraine,NA,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00034840,502.327,BI-502.327,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00273052,GSK-COR103561,GSK-COR103561,GSK,carvedilol,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00274599,502.392,BI-502.392,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00274612,502.39100000000002,BI-502.391,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00696241,01-05-TL-491-008,NA,Takeda,NA,Hypertension n = 1275,Diastolic blood pressure,Systolic blood pressure,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00696436,01-06-TL-491-019,NA,Takeda,NA,Hypertension n = 1291,Diastolic blood pressure,Systolic blood pressure,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+htn,NCT00926289,502.55,BI-502.550,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT02172586,502.31599999999997,BI-502.316,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT02175355,502.25400000000002,BI-502.254,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT02177396,502.25599999999997,BI-502.256,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT02177461,502.31700000000001,BI-502.317,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+htn,NCT02242318,502.37599999999998,BI-502.376,Boehringer Ingelheim,telmisartan,Hypertension,Diastolic blood pressure,Systolic blood pressure,Hypertension,pain,arthritis,anxiety,antacids,asthma_COPD,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00552058,c87085,UCB-C87085,UCB,Certolizumab Pegol,Crohn's Disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00094458,NA,C0168T67,Janssen,Infliximab,Crohn's disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00207662,NA,C0168T21,Janssen,Infliximab,Crohn's disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00207766,NA,C0168T26,Janssen,Infliximab,Crohn's disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00487539,NA,C0524T17,Janssen,Golimumab,Ulcerative colitis,NA,total_mayo,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00488631,NA,C0524T18,Janssen,Golimumab,Ulcerative colitis,NA,total_mayo,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT01369329,NA,CRD3001,Janssen,Ustekinumab,Crohn's disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT01369342,NA,CRD3002,Janssen,Ustekinumab,Crohn's disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT01369355,NA,CRD3003,Janssen,Ustekinumab,Crohn's disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT00783718,TKA-MLN0002_C13006,TAKEDA-C13006,Takeda,vedolizumab,Ulcerative Colitis; Crohn's Disease,NA,total_mayo,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+ibd,NCT01224171,TKA-MLN0002_C13011,TAKEDA-C13011,Takeda,vedolizumab,Ulcerative Colitis; Crohn's Disease,total_cdai,NA,ibd,pain,antacids,anxiety,arthritis,CV,osteoporosis,NA,NA,NA,NA,NA,NA,NA
+neuro_psych,NCT00348140,GSK-AVA102670,GSK-AVA102670,GSK,rosiglitazone,Alzheimer's Disease,final_adas_cog_mci_score,NA,NA,NA,NA,NA,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids,NA,NA,NA
+neuro_psych,NCT00348309,GSK-AVA102672,GSK-AVA102672,GSK,rosiglitazone,Alzheimer's Disease,final_adas_cog_mci_score,NA,NA,NA,NA,NA,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids,NA,NA,NA
+neuro_psych,NCT00428090,GSK-AVA105640,GSK-AVA105640,GSK,rosiglitazone,Alzheimer's Disease,final_adas_cog_mci_score,NA,NA,NA,NA,NA,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids,NA,NA,NA
+neuro_psych,NCT00216593,NA,GAL-ALZ-302,Janssen,Galantamine,Alzheimer's Disease,NA,MDSADLeleven,MDSADLseven,total_sib,NA,NA,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids,NA,NA,NA
+neuro_psych,NCT00236431,NA,Gal-Int-11_24m,Janssen,Galantamine,Alzheimer's Disease,final_adas_cog_mci_score,NA,NA,NA,NA,NA,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids,NA,NA,NA
+neuro_psych,NCT00236574,NA,Gal-Int-18_24m,Janssen,Galantamine,Alzheimer's Disease,final_adas_cog_mci_score,NA,NA,NA,NA,NA,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids,NA,NA,NA
+neuro_psych,NCT00402233,248.62200000000001,BI-248.622,Boehringer Ingelheim,pramipexole,Parkinson Disease,NA,NA,NA,NA,NA,UPDRS Total,Parkinson Disease,CV,anxiety,arthritis,pain,antacids,diabetes,NA,NA,NA
+neuro_psych,NCT00466167,248.52500000000001,BI-248.525,Boehringer Ingelheim,Pramipexol,Parkinson Disease,NA,NA,NA,NA,NA,UPDRS Total,Parkinson Disease,CV,anxiety,arthritis,pain,antacids,diabetes,NA,NA,NA
+neuro_psych,NCT00479401,248.524,BI-248.524,Boehringer Ingelheim,pramipexole,Parkinson Disease,NA,NA,NA,NA,NA,UPDRS Total,Parkinson Disease,CV,anxiety,arthritis,pain,antacids,diabetes,NA,NA,NA
+neuro_psych,NCT00381472,GSK-101468/169,GSK-101468/169,GSK,ropinirole,Parkinson Disease,NA,NA,NA,NA,NA,UPDRS Total,Parkinson Disease,CV,anxiety,arthritis,pain,antacids,diabetes,NA,NA,NA
+neuro_psych,NCT00133198,248.54300000000001,BI-248.543,Boehringer Ingelheim,pramipexole,Restless Legs Syndrome,NA,NA,NA,NA,RLS Symptom Score Total,NA,Restless Legs Syndrome,pain,arthritis,CV,anxiety,antacids,thyroid,NA,NA,NA
+neuro_psych,NCT00197080,GSK-101468/205,GSK-101468/205,GSK,ropinirole,Restless Legs Syndrome,NA,NA,NA,NA,RLS Symptom Score Total,NA,Restless Legs Syndrome,pain,arthritis,CV,anxiety,antacids,thyroid,NA,NA,NA
+neuro_psych,NCT00314860,GSK-101468/204,GSK-101468/204,GSK,ropinirole,Restless Legs Syndrome,NA,NA,NA,NA,RLS Symptom Score Total,NA,Restless Legs Syndrome,pain,arthritis,CV,anxiety,antacids,thyroid,NA,NA,NA
+neuro_psych,NCT00329602,ROR104836,ROR104836,GSK,ropinirole,Restless Legs Syndrome,NA,NA,NA,NA,RLS Symptom Score Total,NA,Restless Legs Syndrome,pain,arthritis,CV,anxiety,antacids,thyroid,NA,NA,NA
+neuro_psych,NCT00363857,GSK-101468/249,GSK-101468/249,GSK,ropinirole,Restless Legs Syndrome,NA,NA,NA,NA,RLS Symptom Score Total,NA,Restless Legs Syndrome,pain,arthritis,CV,anxiety,antacids,thyroid,NA,NA,NA
+neuro_psych,NCT00472199,248.62899999999999,BI-248.629,Boehringer Ingelheim,pramipexole,Restless Legs Syndrome,NA,NA,NA,NA,RLS Symptom Score Total,NA,Restless Legs Syndrome,pain,arthritis,CV,anxiety,antacids,thyroid,NA,NA,NA
+osteoporosis,NCT00046254,NVT_SA_ZOL446H2310,NOVARTIS-CZOL446H2310,Novartis,zoledronic acid,Osteoporosis; Hip Fracture,BMD Neck of Femur,BMD Total Hip,Osteoporosis,CV,arthritis,pain,antacids,anxiety,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+osteoporosis,NCT00049829,NVT_SA_ZOL446H2301,NOVARTIS-CZOL446H2301,Novartis,zoledronic acid,Osteoporosis,BMD Neck of Femur,BMD Total Hip,Osteoporosis,CV,arthritis,pain,antacids,anxiety,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+osteoporosis,NCT00051558,LILLY-B3D-US-GHBZ,LILLY-B3D-US-GHBZ,Lilly,Teriparatide,Osteoporosis,BMD Neck of Femur,BMD Total Hip,Osteoporosis,CV,arthritis,pain,antacids,anxiety,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+osteoporosis,NCT00100620,NVT_SA_ZOL446O2306,NOVARTIS-CZOL446O2306,Novartis,zoledronic acid,Osteoporosis,BMD Neck of Femur,BMD Total Hip,Osteoporosis,CV,arthritis,pain,antacids,anxiety,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+osteoporosis,NCT00439244,NVT_SA_ZOL446H2409,NOVARTIS-CZOL446H2409,Novartis,zoledronic acid,Osteoporosis,BMD Neck of Femur,BMD Total Hip,Osteoporosis,CV,arthritis,pain,antacids,anxiety,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+osteoporosis,NCT00670501,LILLY-B3D-MC-GHAC,LILLY-B3D-MC-GHAC,Lilly,Teriparatide,Osteoporosis,NA,BMD Total Hip,Osteoporosis,CV,arthritis,pain,antacids,anxiety,thromboembolic,NA,NA,NA,NA,NA,NA,NA
+pul_htn,NCT00125918,LILLY-H6D-MC-LVGY,LILLY-H6D-MC-LVGY,Lilly.,Tadalafil,"Hypertension, Pulmonary",min walk,Pulmonary hypertension,CV,pain,anxiety,antacids,inflammatory,arthritis,NA,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01159912,GSK-FFA112059,GSK-FFA112059,GSK,fluticasone furoate,Asthma,FEV1,NA,Asthma,CV,pain,antacids,arthritis,inflammatory,anxiety,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01181895,GSK-B2C112060,GSK-B2C112060,GSK,vilanterol,Asthma,FEV1,NA,Asthma,CV,pain,antacids,arthritis,inflammatory,anxiety,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01436110,GSK-FFA115285,GSK-FFA115285,GSK,fluticasone furoate,Asthma,FEV1,NA,Asthma,CV,pain,antacids,arthritis,inflammatory,anxiety,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01691521,GSK-MEA115588,GSK-MEA115588,GSK,mepolizumab,Asthma,FEV1,NA,Asthma,CV,pain,antacids,arthritis,inflammatory,anxiety,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01316900,GSK-DB2113360-V02,GSK-DB2113360,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive",FEV1,NA,"Pulmonary Disease, Chronic Obstructive",CV,pain,anxiety,arthritis,antacids,diabetes,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01316913,GSK-DB2113374-V02,GSK-DB2113374,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive",FEV1,NA,"Pulmonary Disease, Chronic Obstructive",CV,pain,anxiety,arthritis,antacids,diabetes,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01957163,GSK-200109,GSK-200109,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive",FEV1,NA,"Pulmonary Disease, Chronic Obstructive",CV,pain,anxiety,arthritis,antacids,diabetes,NA,NA,NA,NA,NA,NA,NA
+resp,NCT02119286,GSK-200110,GSK-200110,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive",FEV1,NA,"Pulmonary Disease, Chronic Obstructive",CV,pain,anxiety,arthritis,antacids,diabetes,NA,NA,NA,NA,NA,NA,NA
+resp,NCT02236611,GSK-201315,GSK-201315,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive",FEV1,NA,"Pulmonary Disease, Chronic Obstructive",CV,pain,anxiety,arthritis,antacids,diabetes,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01772134,GSK-AC4116135,GSK-AC4116135,GSK,umeclidinium bromide,"Pulmonary Disease, Chronic Obstructive, Ph",FEV1,NA,"Pulmonary Disease, Chronic Obstructive",CV,pain,anxiety,arthritis,diabetes,antacids,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01335464,1199.32,BI-1199.32,Boehringer Ingelheim,nintedanib,Pulmonary Fibrosis,NA,FVC,Pulmonary Fibrosis,CV,pain,antacids,arthritis,anxiety,asthma_COPD,NA,NA,NA,NA,NA,NA,NA
+resp,NCT01335477,1199.3399999999999,BI-1199.34,Boehringer Ingelheim,nintedanib,Pulmonary Fibrosis,NA,FVC,Pulmonary Fibrosis,CV,pain,antacids,arthritis,anxiety,asthma_COPD,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT00115622,GSK-FFR30003,GSK-FFR30003,GSK,fluticasone furoate,"Rhinitis, Allergic, Seasonal",Total Nasal Symptom Score,"Rhinitis, allergic",pain,arthritis,CV,anxiety,thyroid,antacids,NA,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT00117325,GSK-FFR30006,GSK-FFR30006,GSK,fluticasone furoate,"Rhinitis, Vasomotor",Total Nasal Symptom Score,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT00118703,GSK-FFR30007,GSK-FFR30007,GSK,fluticasone furoate,"Rhinitis, Vasomotor",Total Nasal Symptom Score,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT00118729,FFR101816,FFR101816,GSK,fluticasone furoate,"Rhinitis, Allergic, Seasonal",NA,"Rhinitis, allergic",pain,arthritis,CV,anxiety,thyroid,antacids,NA,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT00289198,GSK-FFR106080,GSK-FFR106080,GSK,fluticasone furoate,"Rhinitis, Allergic, Perennial",Total Nasal Symptom Score,"Rhinitis, allergic",pain,arthritis,CV,anxiety,thyroid,antacids,NA,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT00609674,GSK-FFU111439,GSK-FFU111439,GSK,fluticasone furoate,"Rhinitis, Allergic, Perennial",Total Nasal Symptom Score,"Rhinitis, allergic",pain,arthritis,CV,anxiety,thyroid,antacids,NA,NA,NA,NA,NA,NA,NA,NA
+rhinitis,NCT01916226,GSK-200165-V02,GSK-200165,GSK,fluticasone propionate,"Rhinitis, Allergic, Perennial and Seasonal",Total Nasal Symptom Score,"Rhinitis, allergic",pain,arthritis,CV,anxiety,thyroid,antacids,NA,NA,NA,NA,NA,NA,NA,NA
+ra_pa,NCT01087788,psa001,UCB-PsA001,UCB,Certolizumab Pegol,Psoriatic Arthritis,total_pasi,ACR numerical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ra_pa,NCT00265096,NA,C0524T08,Janssen,Golimumab,Psoriatic arthritis,total_pasi,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ra_pa,NCT01009086,NA,CNTO1275PSA3001,Janssen,Ustekinumab,Psoriatic arthritis,total_pasi,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ra_pa,NCT01077362,NA,CNTO1275PSA3002,Janssen,Ustekinumab,Psoriatic arthritis,total_pasi,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ra_pa,NCT00264537,NA,C0524T05,Janssen,Golimumab,rheumatoid arthritis,NA,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00264550,NA,C0524T06,Janssen,Golimumab,rheumatoid arthritis,NA,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00299546,NA,C0524T11,Janssen,Golimumab,rheumatoid arthritis,NA,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00361335,NA,C0524T12,Janssen,Golimumab,rheumatoid arthritis,NA,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00973479,NA,ART3001,Janssen,Golimumab,rheumatoid arthritis,NA,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00236028,NA,C0168T29,Janssen,Infliximab,rheumatoid arthritis,NA,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00106535,RCH-WA17823,ROCHE-WA17823,Roche,tocilizumab,rheumatoid arthritis,NA,ACR numerical,NA,NA,NA,NA,NA,NA,NA,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT00144508,RCH-MRA012JP,ROCHE-MRA012JP,Roche,tocilizumab,rheumatoid arthritis,NA,ACR numerical,NA,NA,NA,NA,NA,NA,NA,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT01007435,RCH-WA19926,ROCHE-WA19926,Roche,Tocilizumab,rheumatoid arthritis,NA,ACR numerical,NA,NA,NA,NA,NA,NA,NA,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT01119859,RCH-WA19924,ROCHE-WA19924,Roche,Tocilizumab,rheumatoid arthritis,NA,ACR numerical,NA,NA,NA,NA,NA,NA,NA,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ra_pa,NCT01232569,RCH-NA25220,ROCHE-NA25220,Roche,Tocilizumab,rheumatoid arthritis,NA,ACR numerical,NA,NA,NA,NA,NA,NA,NA,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+ps_pa,NCT00265096,NA,C0524T08,Janssen,Golimumab,Psoriatic arthritis,total_pasi,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT00267969,NA,C0743T08,Janssen,Ustekinumab,Psoriasis,total_pasi,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT00307437,NA,C0743T09,Janssen,Ustekinumab,Psoriasis,total_pasi,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01009086,NA,CNTO1275PSA3001,Janssen,Ustekinumab,Psoriatic arthritis,total_pasi,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01077362,NA,CNTO1275PSA3002,Janssen,Ustekinumab,Psoriatic arthritis,total_pasi,ACR numerical,pain_score,patient_score,physician_score,swollen,tender,crp_mg_l,HAQ_score,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01087788,psa001,UCB-PsA001,UCB,Certolizumab Pegol,Psoriatic Arthritis,total_pasi,ACR numerical,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01358578,NVT_SA_AIN457A2303,NOVARTIS-CAIN457A2303,Novartis.,secukinumab,Psoriasis,total_pasi,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01365455,NVT_SA_AIN457A2302,NOVARTIS-CAIN457A2302,Novartis.,secukinumab,Psoriasis,total_pasi,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01474512,LILLY-I1F-MC-RHAZ,LILLY-I1F-MC-RHAZ,Lilly.,Ixekizumab,Psoriasis,total_pasi,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NCT01646177,LILLY-I1F-MC-RHBC,LILLY-I1F-MC-RHBC,Lilly.,Ixekizumab,Psoriasis,total_pasi,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ps_pa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+ank_spond,NCT01209702,RCH-NA22823,ROCHE-NA22823,Roche,Tocilizumab,ankylosing spondylitis,NA,asdascrp,mean_basdai,mean_basfi,Ank spond,pain,anxiety,CV,antacids,asthma_COPD,osteoporosis,NA,NA,NA,NA,NA
+ank_spond,NCT00265083,NA,C0524T09,Janssen,Golimumab,ankylosing spondylitis,NA,asdascrp,mean_basdai,mean_basfi,Ank spond,pain,anxiety,CV,antacids,asthma_COPD,osteoporosis,NA,NA,NA,NA,NA
+ank_spond,NCT01087762,aks001,UCB-AKS001,UCB,Certolizumab Pegol,Axial Spondyloarthritis,ASDAS ESR score,NA,mean_basdai,mean_basfi,Ank spond,pain,anxiety,CV,antacids,asthma_COPD,osteoporosis,NA,NA,NA,NA,NA
+sle,NCT00410384,GSK-HGS1006-C1056,GSK-HGS1006-C1056,GSK,belimumab,Systemic Lupus Erythematosus,SLE Disease Activity Index,Systemic Lupus Erythematosus,arthritis,pain,CV,anxiety,antacids,osteoporosis,NA,NA,NA,NA,NA,NA,NA,NA
+sle,NCT00424476,GSK-HGS1006-C1057,GSK-HGS1006-C1057,GSK,belimumab,Systemic Lupus Erythematosus,SLE Disease Activity Index,Systemic Lupus Erythematosus,arthritis,pain,CV,anxiety,antacids,osteoporosis,NA,NA,NA,NA,NA,NA,NA,NA

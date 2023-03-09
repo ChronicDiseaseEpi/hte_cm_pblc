@@ -1,0 +1,43 @@
+condition,condition_grp,condition_hrm
+Axial Spondyloarthritis,ank_spond,ankylosing spondylitis
+ankylosing spondylitis,ank_spond,ankylosing spondylitis
+Benign Prostatic Hyperplasia,bph,bph
+"Erectile Dysfunction, Benign Prostatic Hyperplasia",bph,bph
+Chronic Idiopathic Urticaria (CIU),ciu,ciu
+Diabetes Mellitus,diab,dm
+"Diabetes Mellitus, Type 2; Renal Insufficiency",diab,dm
+"Diabetes Mellitus, Type 2; Hypertension",diab,dm
+"Diabetes Mellitus, Type 2;   Hyperglycemia",diab,dm
+Type 2 Diabetes Mellitus,diab,dm
+"Diabetes Mellitus, Type 2",diab,dm
+GORD n = 450,gord,gord
+GORD n = 900,gord,gord
+Gout n = 1000,gout,gout
+Gout n = 2250,gout,gout
+Hypertension,htn,htn
+Hypertension n = 1275,htn,htn
+Hypertension n = 1291,htn,htn
+Crohn's Disease,ibd,cd
+Ulcerative Colitis; Crohn's Disease,ibd,cd
+Crohn's disease,ibd,cd
+Ulcerative colitis,ibd,uc
+Restless Legs Syndrome,neuro_psych,rls
+Alzheimer's Disease,neuro_psych,alz
+Parkinson Disease,neuro_psych,pd
+Osteoporosis; Hip Fracture,osteoporosis,osteopor
+Osteoporosis,osteoporosis,osteopor
+Psoriatic Arthritis,ps_pa,psor_art
+Psoriasis,ps_pa,psor
+Psoriatic arthritis,ps_pa,psor_art
+rheumatoid arthritis,ra_pa,rheum_art
+Psoriatic Arthritis,ra_pa,psor_art
+Psoriatic arthritis,ra_pa,psor_art
+Asthma,resp,asthma
+Pulmonary Fibrosis,resp,pul_fibr
+"Pulmonary Disease, Chronic Obstructive",resp,copd
+"Pulmonary Disease, Chronic Obstructive, Ph",resp,copd
+"Rhinitis, Allergic, Seasonal",rhinitis,rhin
+"Rhinitis, Vasomotor",rhinitis,rhin
+"Rhinitis, Allergic, Perennial",rhinitis,rhin
+"Rhinitis, Allergic, Perennial and Seasonal",rhinitis,rhin
+Systemic Lupus Erythematosus,sle,sle

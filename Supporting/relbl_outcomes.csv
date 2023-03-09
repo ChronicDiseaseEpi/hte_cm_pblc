@@ -1,0 +1,22 @@
+outcome_lbl1,outcome_lbl2
+"BASDAI score, mean_basdai",BASDAI score
+IPSS Total Score,IPSS Total Score
+DLQI Score,DLQI Score
+"hba1c, HbAc",HBA1c
+prcntheatburn_free_days,Percent heartburn free days
+urate,Urate
+"Diastolic blood pressure,diastolicbp",Diastolic blood pressure
+"Systolic blood pressure,systolicbp",Systolic blood pressure
+"CDAI Score, MAYO Score, total_cdai, total_mayo",CDAI Score or MAYO score
+"ADAS score, final_adas_cog_mci_score, total_sib",ADAS score
+UPDRS Total,UPDRS Total
+RLS Symptom Score Total,RLS Symptom Score Total
+BMD Total Hip,BMD Total Hip
+"PASI Total score, total_pasi",PASI score
+"ACR numerical, acrn",ACR numerical
+acrn,ACR numerical
+FEV,FEV1
+FEV1,FEV1
+FVC,FVC
+SLE Disease Activity Index,SLE Disease Activity Index
+Total Nasal Symptom Score,Total Nasal Symptom Score

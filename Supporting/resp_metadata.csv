@@ -1,0 +1,13 @@
+nct_id,control,treat,control1,treat1,control2,treat2,cmpr,cmpr_lbl,note
+NCT01159912,Placebo,FP 250 BD,placebo,fluticasone propionate,pu,R03BA Glucocorticoids,pu_R03BA,pu_R03BA Glucocorticoids,
+NCT01436110,Placebo,FP 100 BD,placebo,fluticasone propionate,pu,R03BA Glucocorticoids,pu_R03BA,pu_R03BA Glucocorticoids,
+NCT01772134,Placebo + FSC 250/50,UMEC 125 + FSC 250/50,placebo and fluticasone and salmeterol,umeclindium and fluticasone and salmeterol,pu,R03BB Anticholinergics,pu_R03BA,pu_R03BB Anticholinergics,this is by subtraction
+NCT01957163,Placebo + FF/VI 100/25,UMEC 125 + FF/VI 100/25,"placebo, fluticasone and vilanterol","umeclindium, fluticasone and vilanterol",pu,R03BB Anticholinergics,pu_R03BA,pu_R03BB Anticholinergics,this is by subtraction
+NCT02119286,Placebo + FF/VI 100/25,UMEC 125 + FF/VI 100/25,"placebo, fluticasone and vilanterol","umeclindium, fluticasone and vilanterol",pu,R03BB Anticholinergics,pu_R03BA,pu_R03BB Anticholinergics,this is by subtraction
+NCT01316900,VI 25,UMEC/VI 125/25,vilanterol,umeclindium and vilanterol,R03AC Selective beta-2-adrenoreceptor agonists,R03BB Anticholinergics,R03AC_R03BB,R03AC Selective beta-2-adrenoreceptor agonists_R03BB Anticholinergics,this is by subtraction
+NCT02236611,GLYCO,UMEC 62.5,glycopyrronium,umeclindium,R03BB Anticholinergics,R03BB Anticholinergics,R03AC_R03BB,R03BB Anticholinergics_R03BB Anticholinergics,
+NCT01181895,Placebo,VI 25 OD,placebo,vilanterol,pu,R03AC Selective beta-2-adrenoreceptor agonists,pu_R03AC,pu_R03AC Selective beta-2-adrenoreceptor agonists,no who atc for vilanterol except in combination. In this trial was single. I assigned R03AC as it is a b2-agonist
+NCT01316913,UMEC 125,UMEC/VI 125/25,umeclindium,umeclindium and vilanterol,pu,R03AC Selective beta-2-adrenoreceptor agonists,pu_R03AC,pu_R03AC Selective beta-2-adrenoreceptor agonists,no who atc for vilanterol except in combination. In this trial was single BY SUBTRACTION. I assigned R03AC as it is a b2-agonist.
+NCT01691521,Placebo,Mepolizumab 75mg i.v.,placebo,mepolizumab,pu,R03DX Other systemic drugs for obstructive airway diseases,pu_R03DX,pu_R03DX Other systemic drugs for obstructive airway diseases,monoclonal Ab which blocks Il-5
+NCT01335464,Placebo 150 mg bid,Nintedanib 150 mg bid,placebo,nintedanib,pu,L01EX Other protein kinase inhibitors,pu_L01EX,pu_L01EX Other protein kinase inhibitors,
+NCT01335477,Placebo 150 mg bid,Nintedanib 150 mg bid,placebo,nintedanib,pu,L01EX Other protein kinase inhibitors,pu_L01EX,pu_L01EX Other protein kinase inhibitors,

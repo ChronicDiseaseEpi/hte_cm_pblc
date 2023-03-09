@@ -1,0 +1,38 @@
+nct_id,sponsor_id,medicine,condition,sponsor,condition_grp,v1,v2,v3,v4,v5,v6
+NCT00216593,GAL-ALZ-302,Galantamine,Alzheimer's Disease,Janssen,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids
+NCT00236431,Gal-Int-11_24m,Galantamine,Alzheimer's Disease,Janssen,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids
+NCT00236574,Gal-Int-18_24m,Galantamine,Alzheimer's Disease,Janssen,Dementia,CV,anxiety,arthritis,pain,thromboembolic,antacids
+NCT00265083,C0524T09,Golimumab,ankylosing spondylitis,Janssen,Ank spond,pain,anxiety,CV,antacids,asthma_COPD,osteoporosis
+NCT00207662,C0168T21,Infliximab,Crohn's disease,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT00207766,C0168T26,Infliximab,Crohn's disease,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT00094458,C0168T67,Infliximab,Crohn's disease,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT01369329,CRD3001,Ustekinumab,Crohn's disease,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT01369342,CRD3002,Ustekinumab,Crohn's disease,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT01369355,CRD3003,Ustekinumab,Crohn's disease,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT01106625,DIA3002,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT01081834,DIA3005,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT01106677,DIA3006,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT00968812,DIA3009,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT01106651,DIA3010,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT01106690,DIA3012,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT01137812,DIA3015,Canagliflozin,"Diabetes Mellitus, Type 2",Janssen,Diabetes,CV,pain,anxiety,arthritis,glaucoma,antacids
+NCT00212810,CAPSS-381,Topiramate,Migraine,Janssen,NA,NA,NA,NA,NA,NA,NA
+NCT00210912,CAPSS276,Topiramate,Migraine,Janssen,NA,NA,NA,NA,NA,NA,NA
+NCT00236509,MIGR001,Topiramate,Migraine,Janssen,NA,NA,NA,NA,NA,NA,NA
+NCT00231595,MIGR002,Topiramate,Migraine,Janssen,NA,NA,NA,NA,NA,NA,NA
+NCT00236561,MIGR003,Topiramate,Migraine,Janssen,NA,NA,NA,NA,NA,NA,NA
+NCT00267969,C0743T08,Ustekinumab,Psoriasis,Janssen,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+NCT00307437,C0743T09,Ustekinumab,Psoriasis,Janssen,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+NCT00265096,C0524T08,Golimumab,Psoriatic arthritis,Janssen,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+NCT01009086,CNTO1275PSA3001,Ustekinumab,Psoriatic arthritis,Janssen,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+NCT01077362,CNTO1275PSA3002,Ustekinumab,Psoriatic arthritis,Janssen,Psoriasis,CV,thromboembolic,arthritis,pain,anxiety,diabetes
+NCT00973479,ART3001,Golimumab,rheumatoid arthritis,Janssen,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+NCT00236028,C0168T29,Infliximab,rheumatoid arthritis,Janssen,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+NCT00264537,C0524T05,Golimumab,rheumatoid arthritis,Janssen,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+NCT00264550,C0524T06,Golimumab,rheumatoid arthritis,Janssen,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+NCT00299546,C0524T11,Golimumab,rheumatoid arthritis,Janssen,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+NCT00361335,C0524T12,Golimumab,rheumatoid arthritis,Janssen,rheumatoid arthritis,pain,CV,anxiety,antacids,osteoporosis,thyroid
+NCT00036439,C0168T37,Infliximab,Ulcerative colitis,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT00096655,C0168T46,Infliximab,Ulcerative colitis,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT00487539,C0524T17,Golimumab,Ulcerative colitis,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis
+NCT00488631,C0524T18,Golimumab,Ulcerative colitis,Janssen,IBD,pain,antacids,anxiety,arthritis,CV,osteoporosis

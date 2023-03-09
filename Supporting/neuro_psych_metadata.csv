@@ -1,0 +1,17 @@
+nct_id,control,treat,control1,treat1,treat_atc,cmpr,drop
+NCT00216593,Placebo,Galatamine hydrobromide,pu,galantamine,N06DA Anticholinesterases,pu_N06DA,
+NCT00236431,Placebo,Galatamine hydrobromide,pu,galantamine,N06DA Anticholinesterases,pu_N06DA,
+NCT00236574,Placebo,Galatamine hydrobromide,pu,galantamine,N06DA Anticholinesterases,pu_N06DA,
+NCT00133198,Placebo,PPX 0.75 mg,pu,pramipexole,N04BC Dopamine agonists,pu_N04BC,
+NCT00402233,Placebo,Pramipexole 0.75 mg BID,pu,pramipexole,N04BC Dopamine agonists,pu_N04BC,
+NCT00466167,Placebo,Pramipexole ER,pu,pramipexole,N04BC Dopamine agonists,pu_N04BC,
+NCT00472199,Placebo,Pramipexole,pu,pramipexole,N04BC Dopamine agonists,pu_N04BC,
+NCT00479401,Placebo,Pramipexole ER,pu,pramipexole,N04BC Dopamine agonists,pu_N04BC,
+NCT00197080,Placebo,Ropinirole CR-RLS,pu,ropinirole,N04BC Dopamine agonists,pu_N04BC,
+NCT00314860,Ropinirole IR,Ropinirole CR-RLS,ropinirole,ropinirole,N04BC Dopamine agonists,N04BC_N04BC,same class
+NCT00329602,Double-Blind Placebo,Double-Blind Ropinirole IR,pu,ropinirole,N04BC Dopamine agonists,pu_N04BC,
+NCT00363857,Placebo,Ropinirole,pu,ropinirole,N04BC Dopamine agonists,pu_N04BC,
+NCT00381472,Placebo,Ropinirole CR,pu,ropinirole,N04BC Dopamine agonists,pu_N04BC,
+NCT00348140,Placebo,8mg RSG XR,pu,rosiglitazone,A10BG Thiazolidinediones,pu_A10BG,
+NCT00348309,Placebo,8mg RSG XR,pu,rosiglitazone,A10BG Thiazolidinediones,pu_A10BG,
+NCT00428090,Placebo,8mg RSG XR,pu,rosiglitazone,A10BG Thiazolidinediones,pu_A10BG,

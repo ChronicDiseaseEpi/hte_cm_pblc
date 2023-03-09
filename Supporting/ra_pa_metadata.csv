@@ -1,0 +1,16 @@
+nct_id,control,treat,condition,control1,treat1,cntr_trt,atc_treat,detail_treat,atc_control,cmpr
+NCT01087788,PLACEBO - CZP 400mg Q4W,CZP 400mg Q4W,Psoriatic Arthritis,placebo,Certolizumab Pegol,placebo_czp,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00265096,Placebo,golimumab,Psoriatic arthritis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00299546,Placebo,Golimumab,rheumatoid arthritis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00264537,Placebo and MTX,Golimumab and MTX,rheumatoid arthritis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00264550,Placebo and MTX,Golimumab and MTX,rheumatoid arthritis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00361335,Placebo and MTX,Golimumab and MTX,rheumatoid arthritis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00973479,Placebo and MTX,Golimumab and MTX,rheumatoid arthritis,placebo,golimumab,placebo_golimumab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT00236028,Placebo,Infliximab,rheumatoid arthritis,placebo,infliximab,placebo_infliximab,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,,,pu_l04ab
+NCT01009086,Placebo,Ustekinumab,Psoriatic arthritis,placebo,ustekinumab,placebo_ustekinumab,L04AC Interleukin inhibitors,il-12 and il-23,,pu_l04ac_il12-il23
+NCT01077362,Placebo,Ustekinumab,Psoriatic arthritis,placebo,ustekinumab,placebo_ustekinumab,L04AC Interleukin inhibitors,il-12 and il-23,,pu_l04ac_il12-il23
+NCT00144508,usual care,myeloma receptor antibody,rheumatoid arthritis,placebo,tocilizumab,placebo_tocilizumab,L04AC Interleukin inhibitors,il-6,,pu_l04ac_il6
+NCT00106535,PLACEBO + MTX,TCZ 8 MG/KG + MTX,rheumatoid arthritis,placebo,tocilizumab,placebo_tocilizumab,L04AC Interleukin inhibitors,il-6,,pu_l04ac_il6
+NCT01007435,PLACEBO + MTX,TCZ 8 MG/KG + MTX,rheumatoid arthritis,placebo,tocilizumab,placebo_tocilizumab,L04AC Interleukin inhibitors,il-6,,pu_l04ac_il6
+NCT01119859,ADA 40mg + Placebo (IV),TCZ 8mg/kg + Placebo (SC),rheumatoid arthritis,adalimumab,tocilizumab,adalimumab_tocilizumab,L04AC Interleukin inhibitors,il-6,L04AB Tumor necrosis factor alpha (TNF-?) inhibitors,l04ab_l04ac_il6
+NCT01232569,Placebo PFS q2w,TCZ PFS q2w,rheumatoid arthritis,placebo,tocilizumab,placebo_tocilizumab,L04AC Interleukin inhibitors,il-6,,pu_l04ac_il6
