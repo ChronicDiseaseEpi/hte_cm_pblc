@@ -259,7 +259,7 @@ non_cnt4 <- non_cnt3 %>%
   select(-a_arm, -b_como_cnt, -c_arm_como_cnt_unad)
 names(non_cnt4) <- str_to_sentence(names(non_cnt4))
 non_cnt4 <- non_cnt4 %>% 
-  rename(`Comorbidity treatment intervention` = D_arm_como_cnt_adj) %>% 
+  rename(`Comorbidity treatment interaction` = D_arm_como_cnt_adj) %>% 
   group_by(Condition) %>% 
   mutate(Outcome = if_else(duplicated(Outcome), "", Outcome)) %>% 
   ungroup() %>% 
