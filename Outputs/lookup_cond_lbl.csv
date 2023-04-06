@@ -9,8 +9,6 @@ ED,ED
 GORD,GORD
 Gout,Gout
 Hypertension,Hypertension
-ibd,IBD
-inflammatory arthropathy,Inflammatory Arthropathy
 Osteoporosis,Osteoporosis
 Parkinson Disease,Parkinson Disease
 Psoriasis,Psoriasis
@@ -19,3 +17,5 @@ Pulmonary Fibrosis,Pulmonary Fibrosis
 Restless Legs Syndrome,Restless Legs Syndrome
 "Rhinitis, allergic","Rhinitis, allergic"
 Systemic Lupus Erythematosus,Systemic Lupus Erythematosus
+ibd,IBD
+inflammatory arthropathy,Inflammatory Arthropathy

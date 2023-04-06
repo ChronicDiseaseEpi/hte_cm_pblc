@@ -177,6 +177,29 @@ t1 <- t1 %>%
   distinct()
 rm(t1_catg, t1_cont)
 
+## Calculate total in each
+csdr_yoda %>% 
+  semi_join(t1 %>% 
+              filter(outcome_type == "cont")) %>% 
+  summarise(trials = length(.data$nct_id),
+            participants = sum(tot))
+csdr_yoda %>% 
+  semi_join(t1 %>% 
+              filter(outcome_type == "catg")) %>% 
+  summarise(trials = length(.data$nct_id),
+            participants = sum(tot))
+csdr_yoda %>% 
+  semi_join(t1 %>% 
+              filter(outcome_type == "catg")) %>% 
+  semi_join(t1 %>% 
+              filter(outcome_type == "cont")) %>% 
+  summarise(trials = length(.data$nct_id),
+            participants = sum(tot))
+csdr_yoda %>% 
+  semi_join(t1) %>% 
+  summarise(trials = length(.data$nct_id),
+            participants = sum(tot))
+
 ## aggregate by outcome-type/condition/treatment
 t1_agg <- t1 %>% 
   left_join(csdr_yoda) 
@@ -214,3 +237,23 @@ t1w2 <- t1w2 %>%
 t1w2 <- t1w2 %>% 
   mutate(across(c( Zero, One, Two, `Three+`), ~ if_else(is.na(.x), "", paste0(.x, "%"))))
 write_csv(t1w2, "Outputs/table1_with_age_sex_como.csv")
+
+## breakdown
+t1w2_per_out <- t1w2 
+t1w2_per_out$nct_id <- str_split(t1w2_per_out$nct_id, patt = ";")
+t1w2_per_out <- t1w2_per_out %>% 
+  unnest(nct_id)
+t1w2_per_out <- t1w2_per_out %>% 
+  distinct(outcome_type, nct_id, participants)
+t1w2_per_out %>% 
+  group_by(outcome_type) %>% 
+  summarise(trials = sum(!duplicated(nct_id)),
+            participants = sum(participants[!duplicated(nct_id)])) %>% 
+  ungroup()
+
+a <- t1w2_per_out %>% 
+  distinct(nct_id, participants)
+
+# %>% 
+#   summarise(trials = sum(!duplicated(nct_id)),
+#             participants = sum(participants[!duplicated(nct_id)])) 

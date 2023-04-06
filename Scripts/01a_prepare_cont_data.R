@@ -628,7 +628,8 @@ Compareterms <- function(){
 Compareterms()
 covs <- covs %>% 
   mutate(across(c(rows, cols), ~ .x %>% 
-                  str_remove_all("TRUE"),
+                  str_remove_all("TRUE")),
+         across(c(rows, cols), ~  
                 case_when(
                   .x == "como_cnt:arm" ~ "arm:como_cnt",
                   .x == "sex:arm" ~ "arm:sex",
@@ -652,7 +653,8 @@ covs2 <- covs2 %>%
   mutate(across(c(rows, cols), ~ .x %>% 
                   str_replace_all("armtreat", "arm") %>% 
                   str_replace_all("sexTRUE", "sex") %>% 
-                  str_remove_all("TRUE$"),
+                  str_remove_all("TRUE$")),
+         across(c(rows, cols), ~
                 case_when(
                   .x == "como_cnt:arm" ~ "arm:como_cnt",
                   .x == "sex:arm" ~ "arm:sex",
